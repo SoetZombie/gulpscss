@@ -1,0 +1,28 @@
+﻿body {
+    $test: 30deg;
+
+    a {
+        color: red;
+        transform: translateX($test);
+    }
+
+    .b {
+        transform: translateX($test);
+    }
+
+    .b {
+        transform: translateX($test);
+    }
+
+    .b {
+        transform: translateX($test);
+    }
+
+    .b {
+        transform: translateX($test);
+    }
+
+    .b {
+        transform: translateX($test);
+    }
+}
